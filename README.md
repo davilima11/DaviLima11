@@ -1,4 +1,4 @@
-## hellho, I'm from Davi Lima 👋
+## Hello, I'm from Davi Lima 👋
 
 - 📚 I am currently a software engineering student.
 - 📙 I’m currently learning web development and python.
