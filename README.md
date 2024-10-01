@@ -1,7 +1,6 @@
 ## Hello, I'm from Davi Lima 👋
 
 - 📚 I am currently a software engineering student.
-- 📙 I’m currently learning web development and python.
 - 📫 How to reach me dl99343@gmail.com
 
 <div style="display: inline_block"><br>
