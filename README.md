@@ -1,7 +1,7 @@
-## Hello, I'm from Davi Lima 👋
+I'm from Davi Lima
 
-- 📚 I am currently a software engineering student.
-- 📫 How to reach me dl99343@gmail.com
+- I am currently a software engineering student.
+- How to reach me dl99343@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
